@@ -1,5 +1,4 @@
 import { act, render, renderHook } from '@testing-library/react';
-import * as React from 'react';
 
 import { IntercomProvider, useIntercom } from '../src';
 import { config } from './config';
